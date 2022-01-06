@@ -1,0 +1,135 @@
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash ./Miniconda3-latest-Linux-x86_64.sh 
+bash ./Miniconda3-latest-Linux-x86_64.sh 
+rm miniconda3/
+rm -r miniconda3/
+bash ./Miniconda3-latest-Linux-x86_64.sh 
+conda create -n gpu1
+conda install numpy
+conda install numpy
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+conda info --envs
+conda info --envs
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+conda install ipython jupyter
+conda install tensorflow-gpu
+conda activate gpu37
+conda activate gpy37
+conda install tensorflow-gpu
+conda install ipython jupyter
+conda uninstall pytorch torchvision
+conda info --envs
+conda create -n g1
+conda create -n gpy37
+conda env remove --name g1
+conda create -n g1
+conda activte g1
+conda activate g1
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+conda activate g1
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+conda install ipython jupyter
+conda create g1
+conda activate g1
+conda init bash
+conda activate gpy37
+conda deactivate
+mv miniconda3 /beegfs/scratch/kashefy/
+rm Miniconda3-latest-Linux-x86_64.sh 
+which conda
+ls /beegfs/scratch/kashefy/miniconda3
+conda activate 
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+mv /beegfs/scratch/kashefy/miniconda3 /beegfs/scratch/kashefy/miniconda3X
+bash ./Miniconda3-latest-Linux-x86_64.sh
+rm -rf /beegfs/scratch/kashefy/miniconda3
+mv /beegfs/scratch/kashefy/miniconda3X ~/miniconda3
+conda activate
+conda deactivate
+du -sh miniconda3/*
+whihc conda
+which conda
+conda clean --all
+conda list
+conda envs
+conda env
+conda env list
+conda activate g1
+conda activate gpy37
+ls /beegfs/scratch/kashefy/miniconda3
+rm -rf /beegfs/scratch/kashefy/miniconda3
+rm -rf /beegfs/scratch/kashefy/miniconda3
+ls /beegfs/scratch/kashefy/miniconda3
+ls /beegfs/scratch/kashefy/miniconda3
+which conda
+conda create -n tfo
+conda activate tfo
+rm Miniconda3-latest-Linux-x86_64.sh 
+ls miniconda3/envs/
+conda activate gpy37
+conda install tqdm
+conda activate gpy37
+conda deactivate
+conda activate tfo
+conda activate tf1
+conda install tensorflow-gpu=1.15
+ls miniconda3/
+ls miniconda3/e
+ls miniconda3/envs/
+conda create -n tf1
+conda activate tf1
+conda install numpy scipy pandas
+conda install tensorflow-gpu=1.15
+conda deactivate
+ls miniconda3/envs/tf1
+rm -rf miniconda3/envs/tf1
+conda create -n tf1 python=3.7
+conda activate tf1
+conda install tensorflow-gpu=1.15
+conda install pyyaml
+conda install scikit-image
+ls miniconda3/
+ls miniconda3/envs/
+conda activate tf1
+conda install numpy=1.19.2
+conda activate tf1
+conda install tensorflow-gpu=1.15.0 numpy=1.19.2 scikit-image=0.17.2 scipy=1.5.2 pyyaml=5.3.1
+conda install tensorflow-gpu=1.15.0
+conda activate tf1
+conda install numpy=1.19.2
+conda deactivate
+mv miniconda3/envs/tf1 miniconda3/envs/tf1old
+conda create -n tf1 python=3.7
+conda activate tf1
+conda install tensorflow-gpu=1.15 numpy=1.19.2 scikit-image=0.17.2 scipy=1.5.2 pyyaml=5.3.1
+conda install tensorflow-gpu=1.15.0 numpy=1.19.2 scikit-image=0.17.2 scipy=1.5.2 pyyaml=5.3.1
+conda update -n base -c defaults conda
+conda deactivate
+conda update -n base -c defaults conda
+conda installnumpy=1.19.2 scikit-image=0.17.2 scipy=1.5.2 pyyaml=5.3.1
+conda install numpy=1.19.2 scikit-image=0.17.2 scipy=1.5.2 pyyaml=5.3.1
+conda activate tf1
+conda install numpy=1.19.2 scikit-image=0.17.2 scipy=1.5.2 pyyaml=5.3.1
+conda install tensorflow-gpu=1.15.0
+conda activate tf1
+conda activate tf1
+conda activate tf1
+conda activate tf1
+conda activate tf1
+conda activate tf1
+conda activate torch15
+ls miniconda3/envs/
+screen -S conda
+less .bash_history | grep conda
+conda activate torch15
+conda activate torch15
+conda install termcolor
+conda create --name torch14 python=3.8
+rm -rf ./miniconda3/envs/torch14
+conda create --name torch15 python=3.8
+conda activate troch15
+conda activate torch15
+conda install pytorch==1.5.0 torchvision==0.6.0 cudatoolkit=10.2 -c pytorch
+conda install -c conda-forge opencv easydict
+conda install imageio scikit-image
